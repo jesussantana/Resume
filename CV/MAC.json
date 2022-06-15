@@ -1,0 +1,605 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "JESUS",
+      "surnames": "SANTANA",
+      "title": "👨‍🔬 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 & 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 👨‍💻 <𝘼𝙥𝙥𝙨,𝙎𝙤𝙘𝙞𝙖𝙡𝙎𝙚𝙡𝙡𝙞𝙣𝙜,𝘿𝙖𝙩𝙖𝙎𝙘𝙞𝙚𝙣𝙘𝙚/>",
+      "description": "► Data Scientist & Developer, with extensive experience in Management.\n► Passionate about Technology and Programming, since I discovered the code with a Sinclair ZX81.\n► I help companies make the best strategic and operational decisions through data analysis and predictive models.\n",
+      "avatar": {
+        "alt": "profile-image",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/12/2de89ddd-ca3c-48b1-b444-d037ec563da9_1625464466426.1625464466426"
+      },
+      "location": {
+        "notes": "Greater Barcelona Metropolitan Area"
+      }
+    },
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://esmarketingdigital.com/"
+      },
+      {
+        "type": "github",
+        "URL": "https://github.com/jesussantana"
+      },
+      {
+        "type": "twitter",
+        "URL": "https://twitter.com/esmktdigital"
+      },
+      {
+        "type": "linkedin",
+        "URL": "https://www.linkedin.com/in/chus-santana"
+      }
+    ],
+    "interestingFacts": [
+      {
+        "topic": "Interests",
+        "fact": "Trekking\nSki\nTravel\nTechnology\nBlogging"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Malt",
+          "URL": "https://www.linkedin.com/company/maltcommunity?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Data Scientist & Full Stack Developer | Freelance",
+            "startDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "► Data Scientist & Full Stack Developer ► 𝘗𝘺𝘵𝘩𝘰𝘯3, 𝘋𝘢𝘴𝘩, 𝘙, 𝘑𝘚.𝘌𝘚6, 𝘗𝘏𝘗, 𝘑𝘢𝘷𝘢, 𝘊#, 𝘕𝘰𝘥𝘦, 𝘙𝘦𝘢𝘤𝘵, 𝘔𝘰𝘯𝘨𝘰𝘋𝘉, 𝘔𝘺𝘚𝘘𝘓 ► Data Scientist & Full Stack Developer ► 𝘗𝘺𝘵𝘩𝘰𝘯3, 𝘋𝘢𝘴𝘩, 𝘙, 𝘑𝘚.𝘌𝘚6, 𝘗𝘏𝘗, 𝘑𝘢𝘷𝘢, 𝘊#, 𝘕𝘰𝘥𝘦, 𝘙𝘦𝘢𝘤𝘵, 𝘔𝘰𝘯𝘨𝘰𝘋𝘉, 𝘔𝘺𝘚𝘘𝘓"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "esMarketingDigital",
+          "URL": "https://www.linkedin.com/company/esmarketingdigital?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Web Application Development & Digital Marketing Services | Freelance",
+            "startDate": "2016-03-01"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "EutiSoftware"
+        },
+        "roles": [
+          {
+            "name": "Web Applications Development",
+            "startDate": "2017-05-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "► ASP.Net Web Applications Development ► Technical Support System Applications ► ASP.Net Web Applications Development ► Technical Support System Applications"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "esMarketingDigital",
+          "URL": "https://www.linkedin.com/company/esmarketingdigital?trk=public_profile_experience-group-header"
+        },
+        "roles": [
+          {
+            "name": "Digital Marketing Services | Freelance",
+            "startDate": "2013-02-01",
+            "finishDate": "2016-03-31"
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FLY France",
+          "URL": "https://www.linkedin.com/company/fly-france?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Store Co Manager",
+            "startDate": "2006-05-01",
+            "finishDate": "2009-06-30",
+            "challenges": [
+              {
+                "description": "► Distribution Center Management ► Distribution Center Management"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Carrefour (Champion)",
+          "URL": "https://www.linkedin.com/company/carrefour?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Store Manager",
+            "startDate": "2003-05-01",
+            "finishDate": "2005-12-31",
+            "challenges": [
+              {
+                "description": "► Distribution Center Manager ► Distribution Center Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ANGrup (Mussol)",
+          "URL": "https://www.linkedin.com/company/angrup?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Subdirector",
+            "startDate": "2001-06-01",
+            "finishDate": "2002-12-31",
+            "challenges": [
+              {
+                "description": "► Assistant Restaurant Manager ► Assistant Restaurant Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Comess Group (Restmon)",
+          "URL": "https://www.linkedin.com/company/comess-group?trk=public_profile_experience-item_profile-section-card_subtitle-click"
+        },
+        "roles": [
+          {
+            "name": "Supervisor",
+            "startDate": "2000-06-01",
+            "finishDate": "2001-06-30",
+            "challenges": [
+              {
+                "description": "► Implanter, Supervisor of Ethnic food establishments throughout the national geography (Cantina Mariachi, Sumo, Skiros, R&R). ► Implanter, Supervisor of Ethnic food establishments throughout the national geography (Cantina Mariachi, Sumo, Skiros, R&R)."
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "projects": [
+      {
+        "details": {
+          "name": "Modern Artificial Intelligence",
+          "description": "Projects that Unleash the Power of AI to solve Real-World Business Challenges ",
+          "URL": "https://github.com/jesussantana/Modern-Artificial-Intelligence",
+          "image": {
+            "alt": "68747470733a2f2f65736d61726b6574696e676469676974616c2e636f6d2f696d616765732f4d6f6465726e5f4172746966696369616c5f496e74656c6c6967656e63652e706e67.png",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/23/72f0aa8a-1d32-47e2-a77e-01409269b2b9_68747470733a2f2f6573.png"
+          }
+        },
+        "type": "sideProject",
+        "roles": [
+          {
+            "name": "Developer",
+            "startDate": "2021-06-01",
+            "competences": [
+              {
+                "name": "AWS",
+                "type": "technology"
+              },
+              {
+                "name": "Azure",
+                "type": "technology"
+              },
+              {
+                "name": "Google Data Studio",
+                "type": "technology"
+              },
+              {
+                "name": "Python",
+                "type": "technology"
+              },
+              {
+                "name": "Sklearn",
+                "type": "technology"
+              }
+            ]
+          }
+        ]
+      }
+    ],
+    "publicArtifacts": [
+      {
+        "details": {
+          "name": "esMarketingDigital",
+          "description": "Strategies, tools and resources, which you can find on the Internet, for the development of Online Marketing and Networking techniques",
+          "URL": "http://www.esmarketingdigital.es/",
+          "image": {
+            "alt": "1652080061637.jpeg",
+            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/23/6ebed8df-0cc4-4ab3-a367-a5fe3496d6ae_1652080061637.jpeg"
+          }
+        },
+        "type": "post",
+        "publishingDate": "2015-06-01"
+      }
+    ]
+  },
+  "knowledge": {
+    "languages": [
+      {
+        "name": "Catalan"
+      },
+      {
+        "name": "Spanish"
+      }
+    ],
+    "hardSkills": [
+      {
+        "skill": {
+          "name": "Python",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "JavaScript",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "NodeJS",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "MongoDB",
+          "type": "technology"
+        }
+      },
+      {
+        "skill": {
+          "name": "SQL",
+          "type": "technology"
+        }
+      }
+    ],
+    "studies": [
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "CDP Private Cloud Base - Big Data Cloud Administration",
+        "startDate": "2022-05-01",
+        "finishDate": "2022-05-01",
+        "institution": {
+          "name": "Cloudera"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Deep Learning with Tensorflow",
+        "startDate": "2022-04-01",
+        "finishDate": "2022-04-01",
+        "institution": {
+          "name": "IBM"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Data Science with Python",
+        "startDate": "2021-10-01",
+        "finishDate": "2021-10-01",
+        "institution": {
+          "name": "IT Academy - Barcelona Activa"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS Machine Learning Foundations",
+        "startDate": "2021-10-01",
+        "finishDate": "2021-10-01",
+        "institution": {
+          "name": "Udacity"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Deep Learning Essentials",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "IBM"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "English B.1.A (SSCE121)",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "ICF ÍNDICE CONSULTORÍA Y FORMACIÓN"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Machine Learning Pipelines with Azure ML Studio",
+        "startDate": "2021-09-01",
+        "finishDate": "2021-09-01",
+        "institution": {
+          "name": "Coursera"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "AWS S3 Basics",
+        "startDate": "2021-08-01",
+        "finishDate": "2021-08-01",
+        "institution": {
+          "name": "Coursera"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Native Advertising Strategy Expert",
+        "startDate": "2021-07-01",
+        "finishDate": "2021-07-01",
+        "institution": {
+          "name": "Outbrain"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Scrum Foundation Professional Certificate (SFPC)",
+        "startDate": "2021-06-01",
+        "finishDate": "2021-06-01",
+        "institution": {
+          "name": "CertiProf"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Machine Learning with Python",
+        "startDate": "2021-06-01",
+        "finishDate": "2021-06-01",
+        "institution": {
+          "name": "IBM"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "MATLAB Onramp",
+        "startDate": "2021-05-01",
+        "finishDate": "2021-05-01",
+        "institution": {
+          "name": "MathWorks"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Applied Data Science with Python - Level 2",
+        "startDate": "2021-05-01",
+        "finishDate": "2021-05-01",
+        "institution": {
+          "name": "IBM"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Introduction to Machine Learning",
+        "startDate": "2021-05-01",
+        "finishDate": "2021-05-01",
+        "institution": {
+          "name": "Duke University"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Elements of AI",
+        "startDate": "2021-04-01",
+        "finishDate": "2021-04-01",
+        "institution": {
+          "name": "University of Helsinki"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Python for advanced Data Scientist",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "LinkedIn"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Python for essential Data Science and Big Data",
+        "startDate": "2021-03-01",
+        "finishDate": "2021-03-01",
+        "institution": {
+          "name": "LinkedIn"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Data Scientist: Essential Data Mining",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "LinkedIn"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Cloud Computing",
+        "startDate": "2021-02-01",
+        "finishDate": "2021-02-01",
+        "institution": {
+          "name": "Google"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Data Science with Python Programación informática",
+        "startDate": "2021-01-01",
+        "finishDate": "2021-07-01",
+        "institution": {
+          "name": "IT Academy - Barcelona Activa"
+        },
+        "linkedCompetences": [
+          {
+            "name": "Jupyter",
+            "type": "technology"
+          },
+          {
+            "name": "MatPlotlib",
+            "type": "technology"
+          },
+          {
+            "name": "Python",
+            "type": "technology"
+          },
+          {
+            "name": "Seaborn",
+            "type": "technology"
+          },
+          {
+            "name": "Sklearn",
+            "type": "technology"
+          }
+        ]
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Python Course",
+        "startDate": "2020-12-01",
+        "finishDate": "2020-12-01",
+        "institution": {
+          "name": "SoloLearn"
+        }
+      },
+      {
+        "studyType": "certification",
+        "degreeAchieved": true,
+        "name": "Web Development Part Time Course Barcelona March 2020",
+        "startDate": "2020-10-01",
+        "finishDate": "2020-10-01",
+        "institution": {
+          "name": "Ironhack"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Full stack Web Development/Programming Programación informática",
+        "startDate": "2020-01-01",
+        "finishDate": "2020-12-31",
+        "institution": {
+          "name": "Ironhack",
+          "URL": "https://www.linkedin.com/school/ironhack/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Computer Systems Programming ( IFCT0609) Programación informática",
+        "startDate": "2017-01-01",
+        "finishDate": "2017-12-31",
+        "institution": {
+          "name": "ADAMS Formación",
+          "URL": "https://www.linkedin.com/school/adams-formacion/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Development of Applications with Web Technologies (IFCD0210) Programación informática",
+        "startDate": "2016-01-01",
+        "finishDate": "2016-12-31",
+        "institution": {
+          "name": "ADAMS Formación",
+          "URL": "https://www.linkedin.com/school/adams-formacion/?trk=public_profile_school_profile-section-card_full-click"
+        }
+      },
+      {
+        "studyType": "officialDegree",
+        "degreeAchieved": true,
+        "name": "Creation and Management of Micro-Enterprises (ADGD0210 ) Administración y gestión de empresas",
+        "startDate": "2015-01-01",
+        "finishDate": "2015-12-31",
+        "institution": {
+          "name": "CP'AC"
+        }
+      }
+    ]
+  },
+  "careerPreferences": {
+    "contact": {
+      "publicProfiles": [
+        {
+          "type": "linkedin",
+          "URL": "https://www.linkedin.com/in/chus-santana"
+        }
+      ]
+    },
+    "preferences": {
+      "preferredCompetences": [
+        {
+          "name": "JavaScript",
+          "type": "technology"
+        },
+        {
+          "name": "Linux",
+          "type": "technology"
+        },
+        {
+          "name": "MongoDB",
+          "type": "technology"
+        },
+        {
+          "name": "NodeJS",
+          "type": "technology"
+        },
+        {
+          "name": "Python",
+          "type": "technology"
+        },
+        {
+          "name": "SQL",
+          "type": "technology"
+        }
+      ]
+    }
+  }
+}

@@ -13,9 +13,6 @@
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/12/2de89ddd-ca3c-48b1-b444-d037ec563da9_1625464466426.1625464466426"
-      },
-      "location": {
-        "notes": "Greater Barcelona Metropolitan Area"
       }
     },
     "relevantLinks": [
@@ -265,13 +262,13 @@
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "SQL",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "MongoDB",
           "type": "technology"
         }
       }

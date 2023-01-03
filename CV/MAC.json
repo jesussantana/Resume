@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "EN",
+    "language": "ES",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -13,6 +13,9 @@
       "avatar": {
         "alt": "profile-image",
         "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/12/2de89ddd-ca3c-48b1-b444-d037ec563da9_1625464466426.1625464466426"
+      },
+      "location": {
+        "notes": "Autocompleted using Google Maps API"
       }
     },
     "relevantLinks": [
@@ -40,205 +43,11 @@
       }
     ]
   },
-  "experience": {
-    "jobs": [
-      {
-        "organization": {
-          "name": "Malt",
-          "URL": "https://www.linkedin.com/company/maltcommunity?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Data Scientist & Full Stack Developer | Freelance",
-            "startDate": "2021-03-01",
-            "challenges": [
-              {
-                "description": "► Data Scientist & Full Stack Developer ► 𝘗𝘺𝘵𝘩𝘰𝘯3, 𝘋𝘢𝘴𝘩, 𝘙, 𝘑𝘚.𝘌𝘚6, 𝘗𝘏𝘗, 𝘑𝘢𝘷𝘢, 𝘊#, 𝘕𝘰𝘥𝘦, 𝘙𝘦𝘢𝘤𝘵, 𝘔𝘰𝘯𝘨𝘰𝘋𝘉, 𝘔𝘺𝘚𝘘𝘓 ► Data Scientist & Full Stack Developer ► 𝘗𝘺𝘵𝘩𝘰𝘯3, 𝘋𝘢𝘴𝘩, 𝘙, 𝘑𝘚.𝘌𝘚6, 𝘗𝘏𝘗, 𝘑𝘢𝘷𝘢, 𝘊#, 𝘕𝘰𝘥𝘦, 𝘙𝘦𝘢𝘤𝘵, 𝘔𝘰𝘯𝘨𝘰𝘋𝘉, 𝘔𝘺𝘚𝘘𝘓"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "esMarketingDigital",
-          "URL": "https://www.linkedin.com/company/esmarketingdigital?trk=public_profile_experience-group-header"
-        },
-        "roles": [
-          {
-            "name": "Web Application Development & Digital Marketing Services | Freelance",
-            "startDate": "2016-03-01"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "EutiSoftware"
-        },
-        "roles": [
-          {
-            "name": "Web Applications Development",
-            "startDate": "2017-05-01",
-            "finishDate": "2017-10-31",
-            "challenges": [
-              {
-                "description": "► ASP.Net Web Applications Development ► Technical Support System Applications ► ASP.Net Web Applications Development ► Technical Support System Applications"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "esMarketingDigital",
-          "URL": "https://www.linkedin.com/company/esmarketingdigital?trk=public_profile_experience-group-header"
-        },
-        "roles": [
-          {
-            "name": "Digital Marketing Services | Freelance",
-            "startDate": "2013-02-01",
-            "finishDate": "2016-03-31"
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "FLY France",
-          "URL": "https://www.linkedin.com/company/fly-france?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Store Co Manager",
-            "startDate": "2006-05-01",
-            "finishDate": "2009-06-30",
-            "challenges": [
-              {
-                "description": "► Distribution Center Management ► Distribution Center Management"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Carrefour (Champion)",
-          "URL": "https://www.linkedin.com/company/carrefour?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Store Manager",
-            "startDate": "2003-05-01",
-            "finishDate": "2005-12-31",
-            "challenges": [
-              {
-                "description": "► Distribution Center Manager ► Distribution Center Manager"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "ANGrup (Mussol)",
-          "URL": "https://www.linkedin.com/company/angrup?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Subdirector",
-            "startDate": "2001-06-01",
-            "finishDate": "2002-12-31",
-            "challenges": [
-              {
-                "description": "► Assistant Restaurant Manager ► Assistant Restaurant Manager"
-              }
-            ]
-          }
-        ]
-      },
-      {
-        "organization": {
-          "name": "Comess Group (Restmon)",
-          "URL": "https://www.linkedin.com/company/comess-group?trk=public_profile_experience-item_profile-section-card_subtitle-click"
-        },
-        "roles": [
-          {
-            "name": "Supervisor",
-            "startDate": "2000-06-01",
-            "finishDate": "2001-06-30",
-            "challenges": [
-              {
-                "description": "► Implanter, Supervisor of Ethnic food establishments throughout the national geography (Cantina Mariachi, Sumo, Skiros, R&R). ► Implanter, Supervisor of Ethnic food establishments throughout the national geography (Cantina Mariachi, Sumo, Skiros, R&R)."
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "projects": [
-      {
-        "details": {
-          "name": "Modern Artificial Intelligence",
-          "description": "Projects that Unleash the Power of AI to solve Real-World Business Challenges ",
-          "URL": "https://github.com/jesussantana/Modern-Artificial-Intelligence",
-          "image": {
-            "alt": "68747470733a2f2f65736d61726b6574696e676469676974616c2e636f6d2f696d616765732f4d6f6465726e5f4172746966696369616c5f496e74656c6c6967656e63652e706e67.png",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/23/72f0aa8a-1d32-47e2-a77e-01409269b2b9_68747470733a2f2f6573.png"
-          }
-        },
-        "type": "sideProject",
-        "roles": [
-          {
-            "name": "Developer",
-            "startDate": "2021-06-01",
-            "competences": [
-              {
-                "name": "AWS",
-                "type": "technology"
-              },
-              {
-                "name": "Azure",
-                "type": "technology"
-              },
-              {
-                "name": "Google Data Studio",
-                "type": "technology"
-              },
-              {
-                "name": "Python",
-                "type": "technology"
-              },
-              {
-                "name": "Sklearn",
-                "type": "technology"
-              }
-            ]
-          }
-        ]
-      }
-    ],
-    "publicArtifacts": [
-      {
-        "details": {
-          "name": "esMarketingDigital",
-          "description": "Strategies, tools and resources, which you can find on the Internet, for the development of Online Marketing and Networking techniques",
-          "URL": "http://www.esmarketingdigital.es/",
-          "image": {
-            "alt": "1652080061637.jpeg",
-            "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/23/6ebed8df-0cc4-4ab3-a367-a5fe3496d6ae_1652080061637.jpeg"
-          }
-        },
-        "type": "post",
-        "publishingDate": "2015-06-01"
-      }
-    ]
-  },
   "knowledge": {
     "languages": [
       {
-        "name": "Catalan"
-      },
-      {
-        "name": "Spanish"
+        "name": "English",
+        "level": "Limited working proficiency"
       }
     ],
     "hardSkills": [
@@ -281,7 +90,8 @@
         "startDate": "2022-05-01",
         "finishDate": "2022-05-01",
         "institution": {
-          "name": "Cloudera"
+          "name": "Cloudera",
+          "description": ""
         }
       },
       {
@@ -291,7 +101,8 @@
         "startDate": "2022-04-01",
         "finishDate": "2022-04-01",
         "institution": {
-          "name": "IBM"
+          "name": "IBM",
+          "description": ""
         }
       },
       {
@@ -301,7 +112,8 @@
         "startDate": "2021-10-01",
         "finishDate": "2021-10-01",
         "institution": {
-          "name": "IT Academy - Barcelona Activa"
+          "name": "IT Academy - Barcelona Activa",
+          "description": ""
         }
       },
       {
@@ -311,7 +123,8 @@
         "startDate": "2021-10-01",
         "finishDate": "2021-10-01",
         "institution": {
-          "name": "Udacity"
+          "name": "Udacity",
+          "description": ""
         }
       },
       {
@@ -321,7 +134,8 @@
         "startDate": "2021-09-01",
         "finishDate": "2021-09-01",
         "institution": {
-          "name": "IBM"
+          "name": "IBM",
+          "description": ""
         }
       },
       {
@@ -331,7 +145,8 @@
         "startDate": "2021-09-01",
         "finishDate": "2021-09-01",
         "institution": {
-          "name": "ICF ÍNDICE CONSULTORÍA Y FORMACIÓN"
+          "name": "ICF ÍNDICE CONSULTORÍA Y FORMACIÓN",
+          "description": ""
         }
       },
       {
@@ -341,7 +156,8 @@
         "startDate": "2021-09-01",
         "finishDate": "2021-09-01",
         "institution": {
-          "name": "Coursera"
+          "name": "Coursera",
+          "description": ""
         }
       },
       {
@@ -351,7 +167,8 @@
         "startDate": "2021-08-01",
         "finishDate": "2021-08-01",
         "institution": {
-          "name": "Coursera"
+          "name": "Coursera",
+          "description": ""
         }
       },
       {
@@ -361,7 +178,8 @@
         "startDate": "2021-07-01",
         "finishDate": "2021-07-01",
         "institution": {
-          "name": "Outbrain"
+          "name": "Outbrain",
+          "description": ""
         }
       },
       {
@@ -371,7 +189,8 @@
         "startDate": "2021-06-01",
         "finishDate": "2021-06-01",
         "institution": {
-          "name": "CertiProf"
+          "name": "CertiProf",
+          "description": ""
         }
       },
       {
@@ -381,7 +200,8 @@
         "startDate": "2021-06-01",
         "finishDate": "2021-06-01",
         "institution": {
-          "name": "IBM"
+          "name": "IBM",
+          "description": ""
         }
       },
       {
@@ -391,7 +211,8 @@
         "startDate": "2021-05-01",
         "finishDate": "2021-05-01",
         "institution": {
-          "name": "MathWorks"
+          "name": "MathWorks",
+          "description": ""
         }
       },
       {
@@ -401,7 +222,8 @@
         "startDate": "2021-05-01",
         "finishDate": "2021-05-01",
         "institution": {
-          "name": "IBM"
+          "name": "IBM",
+          "description": ""
         }
       },
       {
@@ -411,7 +233,8 @@
         "startDate": "2021-05-01",
         "finishDate": "2021-05-01",
         "institution": {
-          "name": "Duke University"
+          "name": "Duke University",
+          "description": ""
         }
       },
       {
@@ -421,7 +244,8 @@
         "startDate": "2021-04-01",
         "finishDate": "2021-04-01",
         "institution": {
-          "name": "University of Helsinki"
+          "name": "University of Helsinki",
+          "description": ""
         }
       },
       {
@@ -431,7 +255,8 @@
         "startDate": "2021-03-01",
         "finishDate": "2021-03-01",
         "institution": {
-          "name": "LinkedIn"
+          "name": "LinkedIn",
+          "description": ""
         }
       },
       {
@@ -441,7 +266,8 @@
         "startDate": "2021-03-01",
         "finishDate": "2021-03-01",
         "institution": {
-          "name": "LinkedIn"
+          "name": "LinkedIn",
+          "description": ""
         }
       },
       {
@@ -451,7 +277,8 @@
         "startDate": "2021-02-01",
         "finishDate": "2021-02-01",
         "institution": {
-          "name": "LinkedIn"
+          "name": "LinkedIn",
+          "description": ""
         }
       },
       {
@@ -461,7 +288,8 @@
         "startDate": "2021-02-01",
         "finishDate": "2021-02-01",
         "institution": {
-          "name": "Google"
+          "name": "Google",
+          "description": ""
         }
       },
       {
@@ -471,7 +299,9 @@
         "startDate": "2021-01-01",
         "finishDate": "2021-07-01",
         "institution": {
-          "name": "IT Academy - Barcelona Activa"
+          "name": "IT Academy - Barcelona Activa",
+          "description": "",
+          "URL": ""
         },
         "linkedCompetences": [
           {
@@ -503,7 +333,8 @@
         "startDate": "2020-12-01",
         "finishDate": "2020-12-01",
         "institution": {
-          "name": "SoloLearn"
+          "name": "SoloLearn",
+          "description": ""
         }
       },
       {
@@ -513,7 +344,8 @@
         "startDate": "2020-10-01",
         "finishDate": "2020-10-01",
         "institution": {
-          "name": "Ironhack"
+          "name": "Ironhack",
+          "description": ""
         }
       },
       {
@@ -524,6 +356,7 @@
         "finishDate": "2020-12-31",
         "institution": {
           "name": "Ironhack",
+          "description": "",
           "URL": "https://www.linkedin.com/school/ironhack/?trk=public_profile_school_profile-section-card_full-click"
         }
       },
@@ -535,6 +368,7 @@
         "finishDate": "2017-12-31",
         "institution": {
           "name": "ADAMS Formación",
+          "description": "",
           "URL": "https://www.linkedin.com/school/adams-formacion/?trk=public_profile_school_profile-section-card_full-click"
         }
       },
@@ -546,6 +380,7 @@
         "finishDate": "2016-12-31",
         "institution": {
           "name": "ADAMS Formación",
+          "description": "",
           "URL": "https://www.linkedin.com/school/adams-formacion/?trk=public_profile_school_profile-section-card_full-click"
         }
       },
@@ -556,7 +391,8 @@
         "startDate": "2015-01-01",
         "finishDate": "2015-12-31",
         "institution": {
-          "name": "CP'AC"
+          "name": "CP'AC",
+          "description": ""
         }
       }
     ]
@@ -597,6 +433,7 @@
           "type": "technology"
         }
       ]
-    }
+    },
+    "status": "searchingActively"
   }
 }

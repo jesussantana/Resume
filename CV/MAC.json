@@ -1,7 +1,7 @@
 {
   "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
   "settings": {
-    "language": "ES",
+    "language": "EN",
     "MACVersion": "0.3"
   },
   "aboutMe": {
@@ -11,55 +11,187 @@
       "title": "👨‍🔬 𝐃𝐚𝐭𝐚 𝐒𝐜𝐢𝐞𝐧𝐭𝐢𝐬𝐭 & 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 👨‍💻 <𝘼𝙥𝙥𝙨,𝙎𝙤𝙘𝙞𝙖𝙡𝙎𝙚𝙡𝙡𝙞𝙣𝙜,𝘿𝙖𝙩𝙖𝙎𝙘𝙞𝙚𝙣𝙘𝙚/>",
       "description": "► Data Scientist & Developer, with extensive experience in Management.\n► Passionate about Technology and Programming, since I discovered the code with a Sinclair ZX81.\n► I help companies make the best strategic and operational decisions through data analysis and predictive models.\n",
       "avatar": {
-        "alt": "profile-image",
-        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/12/2de89ddd-ca3c-48b1-b444-d037ec563da9_1625464466426.1625464466426"
-      },
-      "location": {
-        "notes": "Autocompleted using Google Maps API"
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/05/12/2de89ddd-ca3c-48b1-b444-d037ec563da9_1625464466426.1625464466426",
+        "alt": "profile-image"
       }
     },
-    "relevantLinks": [
-      {
-        "type": "other",
-        "URL": "https://esmarketingdigital.com/"
-      },
-      {
-        "type": "github",
-        "URL": "https://github.com/jesussantana"
-      },
-      {
-        "type": "twitter",
-        "URL": "https://twitter.com/esmktdigital"
-      },
-      {
-        "type": "linkedin",
-        "URL": "https://www.linkedin.com/in/chus-santana"
-      }
-    ],
     "interestingFacts": [
       {
         "topic": "Interests",
         "fact": "Trekking\nSki\nTravel\nTechnology\nBlogging"
       }
+    ],
+    "relevantLinks": [
+      {
+        "type": "other",
+        "URL": "https://esmarketingdigital.com/"
+      }
+    ]
+  },
+  "experience": {
+    "jobs": [
+      {
+        "organization": {
+          "name": "Feb 2013 - Mar 2016 "
+        },
+        "roles": [
+          {
+            "name": "Digital Marketing Services | Freelance",
+            "startDate": "2023-01-03",
+            "challenges": [
+              {
+                "description": "Digital Marketing Services | Freelance"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Mar 2016 - Present "
+        },
+        "roles": [
+          {
+            "name": "Web Application Development & Digital Marketing Services | Freelance",
+            "startDate": "2023-01-03",
+            "challenges": [
+              {
+                "description": "Web Application Development & Digital Marketing Services | Freelance"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Malt "
+        },
+        "roles": [
+          {
+            "name": "Data Scientist & Developer | Freelance",
+            "startDate": "2021-03-01",
+            "challenges": [
+              {
+                "description": "► Data Scientist & Developer\n► 𝘗𝘺𝘵𝘩𝘰𝘯3, 𝘙, 𝘑𝘚.𝘌𝘚6, 𝘕𝘰𝘥𝘦, 𝘙𝘦𝘢𝘤𝘵, 𝘔𝘺𝘚𝘘𝘓, 𝘔𝘰𝘯𝘨𝘰𝘋𝘉, 𝘛𝘢𝘣𝘭𝘦𝘢𝘶, 𝘗𝘰𝘸𝘦𝘳𝘉𝘪"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "EutiSoftware "
+        },
+        "roles": [
+          {
+            "name": "Web Application Development",
+            "startDate": "2017-05-01",
+            "finishDate": "2017-10-31",
+            "challenges": [
+              {
+                "description": "► ASP.Net Web Applications Development\n► Technical Support System Applications"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Freelance "
+        },
+        "roles": [
+          {
+            "name": "esMarketingDigital",
+            "startDate": "2016-03-01",
+            "challenges": [
+              {
+                "description": "Web Application Development & Digital Marketing Services | Freelance"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "FLY France "
+        },
+        "roles": [
+          {
+            "name": "Store Co Manager",
+            "startDate": "2006-05-01",
+            "finishDate": "2009-06-30",
+            "challenges": [
+              {
+                "description": "► Distribution Center Management"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Carrefour (Champion) "
+        },
+        "roles": [
+          {
+            "name": "Store Manager",
+            "startDate": "2003-05-01",
+            "finishDate": "2005-12-31",
+            "challenges": [
+              {
+                "description": "► Distribution Center Management"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "ANGrup (Mussol) "
+        },
+        "roles": [
+          {
+            "name": "Subdirector",
+            "startDate": "2001-06-01",
+            "finishDate": "2002-12-31",
+            "challenges": [
+              {
+                "description": "► Assistant Restaurant Manager"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "organization": {
+          "name": "Comess Group (Restmon) "
+        },
+        "roles": [
+          {
+            "name": "Supervisor",
+            "startDate": "2000-06-01",
+            "finishDate": "2001-06-30",
+            "challenges": [
+              {
+                "description": "► Implementer and Supervisor of Ethnic food establishments throughout the national geography (Cantina Mariachi, Sumo, Skiros, R&R)."
+              }
+            ]
+          }
+        ]
+      }
     ]
   },
   "knowledge": {
-    "languages": [
-      {
-        "name": "English",
-        "level": "Limited working proficiency"
-      }
-    ],
     "hardSkills": [
       {
         "skill": {
-          "name": "Python",
+          "name": "JavaScript",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "JavaScript",
+          "name": "MongoDB",
           "type": "technology"
         }
       },
@@ -71,328 +203,34 @@
       },
       {
         "skill": {
-          "name": "SQL",
+          "name": "Python",
           "type": "technology"
         }
       },
       {
         "skill": {
-          "name": "MongoDB",
+          "name": "SQL",
           "type": "technology"
         }
       }
     ],
-    "studies": [
+    "softSkills": [
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "CDP Private Cloud Base - Big Data Cloud Administration",
-        "startDate": "2022-05-01",
-        "finishDate": "2022-05-01",
-        "institution": {
-          "name": "Cloudera",
-          "description": ""
+        "skill": {
+          "name": "Adaptability to change",
+          "type": "practice"
         }
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Deep Learning with Tensorflow",
-        "startDate": "2022-04-01",
-        "finishDate": "2022-04-01",
-        "institution": {
-          "name": "IBM",
-          "description": ""
+        "skill": {
+          "name": "Analytical thinking",
+          "type": "practice"
         }
       },
       {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Data Science with Python",
-        "startDate": "2021-10-01",
-        "finishDate": "2021-10-01",
-        "institution": {
-          "name": "IT Academy - Barcelona Activa",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "AWS Machine Learning Foundations",
-        "startDate": "2021-10-01",
-        "finishDate": "2021-10-01",
-        "institution": {
-          "name": "Udacity",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Deep Learning Essentials",
-        "startDate": "2021-09-01",
-        "finishDate": "2021-09-01",
-        "institution": {
-          "name": "IBM",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "English B.1.A (SSCE121)",
-        "startDate": "2021-09-01",
-        "finishDate": "2021-09-01",
-        "institution": {
-          "name": "ICF ÍNDICE CONSULTORÍA Y FORMACIÓN",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Machine Learning Pipelines with Azure ML Studio",
-        "startDate": "2021-09-01",
-        "finishDate": "2021-09-01",
-        "institution": {
-          "name": "Coursera",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "AWS S3 Basics",
-        "startDate": "2021-08-01",
-        "finishDate": "2021-08-01",
-        "institution": {
-          "name": "Coursera",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Native Advertising Strategy Expert",
-        "startDate": "2021-07-01",
-        "finishDate": "2021-07-01",
-        "institution": {
-          "name": "Outbrain",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Scrum Foundation Professional Certificate (SFPC)",
-        "startDate": "2021-06-01",
-        "finishDate": "2021-06-01",
-        "institution": {
-          "name": "CertiProf",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Machine Learning with Python",
-        "startDate": "2021-06-01",
-        "finishDate": "2021-06-01",
-        "institution": {
-          "name": "IBM",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "MATLAB Onramp",
-        "startDate": "2021-05-01",
-        "finishDate": "2021-05-01",
-        "institution": {
-          "name": "MathWorks",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Applied Data Science with Python - Level 2",
-        "startDate": "2021-05-01",
-        "finishDate": "2021-05-01",
-        "institution": {
-          "name": "IBM",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Introduction to Machine Learning",
-        "startDate": "2021-05-01",
-        "finishDate": "2021-05-01",
-        "institution": {
-          "name": "Duke University",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Elements of AI",
-        "startDate": "2021-04-01",
-        "finishDate": "2021-04-01",
-        "institution": {
-          "name": "University of Helsinki",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Python for advanced Data Scientist",
-        "startDate": "2021-03-01",
-        "finishDate": "2021-03-01",
-        "institution": {
-          "name": "LinkedIn",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Python for essential Data Science and Big Data",
-        "startDate": "2021-03-01",
-        "finishDate": "2021-03-01",
-        "institution": {
-          "name": "LinkedIn",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Data Scientist: Essential Data Mining",
-        "startDate": "2021-02-01",
-        "finishDate": "2021-02-01",
-        "institution": {
-          "name": "LinkedIn",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Cloud Computing",
-        "startDate": "2021-02-01",
-        "finishDate": "2021-02-01",
-        "institution": {
-          "name": "Google",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Data Science with Python Programación informática",
-        "startDate": "2021-01-01",
-        "finishDate": "2021-07-01",
-        "institution": {
-          "name": "IT Academy - Barcelona Activa",
-          "description": "",
-          "URL": ""
-        },
-        "linkedCompetences": [
-          {
-            "name": "Jupyter",
-            "type": "technology"
-          },
-          {
-            "name": "MatPlotlib",
-            "type": "technology"
-          },
-          {
-            "name": "Python",
-            "type": "technology"
-          },
-          {
-            "name": "Seaborn",
-            "type": "technology"
-          },
-          {
-            "name": "Sklearn",
-            "type": "technology"
-          }
-        ]
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Python Course",
-        "startDate": "2020-12-01",
-        "finishDate": "2020-12-01",
-        "institution": {
-          "name": "SoloLearn",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "certification",
-        "degreeAchieved": true,
-        "name": "Web Development Part Time Course Barcelona March 2020",
-        "startDate": "2020-10-01",
-        "finishDate": "2020-10-01",
-        "institution": {
-          "name": "Ironhack",
-          "description": ""
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Full stack Web Development/Programming Programación informática",
-        "startDate": "2020-01-01",
-        "finishDate": "2020-12-31",
-        "institution": {
-          "name": "Ironhack",
-          "description": "",
-          "URL": "https://www.linkedin.com/school/ironhack/?trk=public_profile_school_profile-section-card_full-click"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Computer Systems Programming ( IFCT0609) Programación informática",
-        "startDate": "2017-01-01",
-        "finishDate": "2017-12-31",
-        "institution": {
-          "name": "ADAMS Formación",
-          "description": "",
-          "URL": "https://www.linkedin.com/school/adams-formacion/?trk=public_profile_school_profile-section-card_full-click"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Development of Applications with Web Technologies (IFCD0210) Programación informática",
-        "startDate": "2016-01-01",
-        "finishDate": "2016-12-31",
-        "institution": {
-          "name": "ADAMS Formación",
-          "description": "",
-          "URL": "https://www.linkedin.com/school/adams-formacion/?trk=public_profile_school_profile-section-card_full-click"
-        }
-      },
-      {
-        "studyType": "officialDegree",
-        "degreeAchieved": true,
-        "name": "Creation and Management of Micro-Enterprises (ADGD0210 ) Administración y gestión de empresas",
-        "startDate": "2015-01-01",
-        "finishDate": "2015-12-31",
-        "institution": {
-          "name": "CP'AC",
-          "description": ""
+        "skill": {
+          "name": "Attention to detail",
+          "type": "practice"
         }
       }
     ]
@@ -401,8 +239,25 @@
     "contact": {
       "publicProfiles": [
         {
-          "type": "linkedin",
-          "URL": "https://www.linkedin.com/in/chus-santana"
+          "URL": "https://www.linkedin.com/in/chus-santana",
+          "type": "linkedin"
+        },
+        {
+          "URL": "https://github.com/jesussantana",
+          "type": "github"
+        },
+        {
+          "URL": "https://twitter.com/esmktdigital",
+          "type": "twitter"
+        }
+      ],
+      "contactMails": [
+        "jesus@esmarketingdigital.com"
+      ],
+      "phoneNumbers": [
+        {
+          "number": "608574193",
+          "countryCode": "+34"
         }
       ]
     },
@@ -432,8 +287,14 @@
           "name": "SQL",
           "type": "technology"
         }
+      ],
+      "preferredRoles": [
+        "Data Engineer"
       ]
     },
     "status": "searchingActively"
+  },
+  "manfredSpecificData": {
+    "desiredJobDescription": "Although at the moment I have only worked as a Full Stack Developer, my goal is to become a Data Scientist. I would love to work in a company with a challenging project and with the possibility of working completely remotely"
   }
 }
